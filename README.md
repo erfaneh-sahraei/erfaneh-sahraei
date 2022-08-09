@@ -1,5 +1,6 @@
 ### Hello and Welcome 👋, I'm ERFANEH SAHRAEI
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/></p><p align="center">
+<p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/></p>
+<p align="center">
 <a href="https://www.linkedin.com/in/erfaneh-sahraei"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=erfaneh-sahraei&style=plastic&color=blue" alt=""></p>
