@@ -1,5 +1,5 @@
 ### Hello and Welcome 👋, I'm ERFANEH SAHRAEI
-<p align="center"><img src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/erfaneh-sahraei"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
