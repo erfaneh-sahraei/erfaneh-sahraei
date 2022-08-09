@@ -35,6 +35,5 @@
 
 ### 🔥 &nbsp; My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erfaneh-sahraei&theme=blueberry&show_icons=true)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erfaneh-sahraei&repo=React-Exercise)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfaneh-sahraei&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
