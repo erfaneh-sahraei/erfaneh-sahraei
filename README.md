@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/erfaneh-sahraei"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=erfaneh-sahraei&style=flat-square&color=ff69b4" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=erfaneh-sahraei&style=plastic&color=ff69b4" alt=""></p>
 
 
 
