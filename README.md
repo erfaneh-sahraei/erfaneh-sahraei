@@ -8,7 +8,7 @@
 
 
 ### :woman_technologist: &nbsp;About Me:
-### I'm a Front End Developer
+### I'm a Developer
 
 - 👨🏽‍🎓 I enjoy learning coding skills
 - 🌱 I'm currently growing my Programming skills
